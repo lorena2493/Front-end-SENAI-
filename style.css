@@ -28,6 +28,9 @@ nav ul {
     list-style: none;
 }
 
+nav a{
+    color: deeppink;
+}
 /*nav ul li {*/
 /*    margin-left: 20px;*/
 /*}*/
